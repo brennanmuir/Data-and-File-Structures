@@ -1,0 +1,6 @@
+first object
+second object
+3
+4.0
+five
+0.06
